@@ -1,5 +1,15 @@
-# Intro-IA
-Introducción a la Inteligencia Artificial
+# Introducción a la Inteligencia Artificial
+
+
+<img src="images/Cartoon_Robot.svg.png" width="100"/>
+
+---
+Fernando Izco García  (fernando.izco.garcia@navarra.es)  
+ Servicio de Avance Digital  
+ Dirección General de Telecomunicaciones y Digitalización  
+<img src="images/logo.gn.png" width="200"/>
+
+---
 
 1. Primera parte
     1. [Un ejemplo como introducción](Intro-IA-1.ipynb)
