@@ -11,6 +11,8 @@ Fernando Izco García  (fernando.izco.garcia@navarra.es)
 
 ---
 
+Una pequeña introducción a la Inteligencia Artificial para todos los públicos.
+
 1. Primera parte
     1. [Un ejemplo como introducción](Intro-IA-1.ipynb)
     1. [Definición y casos de uso](Intro-IA-2.ipynb)
