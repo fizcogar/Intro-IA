@@ -32,7 +32,9 @@ La opción más sencilla es instalar el gestor de paquetes [Conda](https://docs.
 * https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 * Elije la versión para Python 3.x
 ## Para lanzar Jupyter
-Menu windows - Anaconda - Anaconda Prompt, y escribir:
+* En linux o MacOS, abrir una terminal
+* En Windows: Menu windows - Anaconda - Anaconda Prompt
+* Escribir:
 ```
 cd <carpeta local>
 jupyter notebook
