@@ -27,8 +27,8 @@ Una pequeña introducción a la Inteligencia Artificial para todos los públicos
 # Si quieres 'jugar' con el código fuente de la primera parte
 ## Descarga del curso
 * Ir al repositorio (https://github.com/fizcogar/Intro-IA)
-* Pulsar en Clone or download y Download ZIP
-* Elegir cualquier carpeta local
+* Pulsar en *Clone or download* y *Download ZIP*
+* Descargar y descomprimir en cualquier carpeta local
 ## Instala Python y Jupyter Notebooks
 La opción más sencilla es instalar el gestor de paquetes [Conda](https://docs.conda.io). Si quieres, puedes instalar la versión reducida miniconda, pero tendrás que instalar luego a mano los paquetes necesarios.
 * https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
