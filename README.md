@@ -51,6 +51,6 @@ La opción más sencilla es instalar el gestor de paquetes [Conda](https://docs.
 cd <carpeta local>
 jupyter notebook
 ```
-## Para saber cóm funcionan los cuadernos Jupyter
+## Para saber cómo funcionan los cuadernos Jupyter
 Hay muchos recursos en Internet, por ejemplo https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html
 
