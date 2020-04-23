@@ -22,6 +22,16 @@ Una pequeña introducción a la Inteligencia Artificial para todos los públicos
     1. [Ética e IA](Intro-IA-5.ipynb)
     
 # El curso en Vídeo
+
+1. Primera parte
+    1. [Un ejemplo como introducción](https://youtu.be/SYFrgoForwo)
+    1. [Definición y casos de uso](https://youtu.be/zdvR8Oaapyw)
+1. Segunda parte
+    1. [Claves del aprendizaje supervisado](https://youtu.be/EM1jmJvsLak)
+    1. [Claves del aprendizaje profundo](https://youtu.be/ManpEaTrbog)
+    1. [Ética e IA](https://youtu.be/x6qu6rUigCk)
+
+# Foro de discusión
 ... próximamente
 
 # Si quieres 'jugar' con el código fuente de la primera parte
