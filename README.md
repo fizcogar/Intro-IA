@@ -15,7 +15,7 @@ Una pequeña introducción a la Inteligencia Artificial para todos los públicos
 
 1. Primera parte
     1. Un ejemplo como introuducción
-        * [Video en YouTube](https://youtu.be/SYFrgoForwo)
+        * [Video en YouTube](https://youtu.be/pJqLfhyF30I)
         * [Cuaderno Jupyter](Intro-IA-1.ipynb)
     1. Definición y casos de uso
         * [Video en YouTube](https://youtu.be/zdvR8Oaapyw)
